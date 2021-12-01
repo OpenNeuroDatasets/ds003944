@@ -1,0 +1,20 @@
+{
+  "InstitutionAddress": "3550 Terrace St, Pittsburgh, PA, 15213, USA",
+  "InstitutionName": "University of Pittsburgh School of Medicine",
+  "InstitutionalDepartmentName": "Department of Psychiatry",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Elekta Neuromag Vectorview",
+  "EEGReference": "TP9",
+  "Instructions": "We asked our participants to “Keep eyes open and focus on the centered plus-sign. Let your mind wander, trying not to think about anything in particular and let your thoughts flow freely.”",
+  "TaskDescription": "In this resting task, participants were asked to let their mind wander while focusing on a fixation point. The fixation point was a plus-sign projected onto a screen in the MEG recording room about 1 meter from the participant.",
+  "TaskName": "Rest",
+  "EEGChannelCount": 61,
+  "EOGChannelCount": 1,
+  "MiscChannelCount": 1,
+  "ECGChannelCount": 1,
+  "RecordingType": "continuous",
+  "RecordingDuration": 306,
+  "SamplingFrequency": 1000,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}

@@ -1,0 +1,41 @@
+{
+  "participant_id": {
+    "LongName": "Participant identifier",
+    "Description": "Unique participant identifier"
+  },
+  "type": {
+    "Description": "Type of participant",
+    "Levels": {
+      "Control": "Healthy",
+      "Psychosis": "First Episode Psychosis"
+    }
+  },
+  "age": {
+    "Description": "age of the participant",
+    "Units": "years"
+  },
+  "gender": {
+    "Description": "Sex of the participant",
+    "Levels": {
+      "M": "Male",
+      "F": "Female"
+    }
+  },
+  "race": {
+    "Description": "Race of the participant",
+    "Levels": {
+      "Asian": "Asian",
+      "Black": "Black or African American",
+      "White": "White",
+      "Mixed": "Multiracial",
+      "Undislcosed": "Undisclosed"
+    }
+  },
+  "ethnicity": {
+    "Description": "Ethnicity of the participant",
+    "Levels": {
+      "Hispanic": "Participant is of Hispanic Origin",
+      "Not_Hispanic": "Participant is not of Hispanic Origin"
+    }
+  }
+}
