@@ -1,0 +1,14 @@
+{
+    "Name": "EEG: First Episode Psychosis vs. Control Resting Task 1",
+    "ReferencesAndLinks": [
+        "Phalen, H., Coffman, B.A., Ghuman, A., Sejdi\u0107, E. and Salisbury, D.F., 2020. Non-negative matrix factorization reveals resting-state cortical alpha network abnormalities in the first-episode schizophrenia spectrum. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 5(10), pp.961-970., https://pubmed.ncbi.nlm.nih.gov/31451387/"
+    ],
+    "BIDSVersion": "v1.6.0",
+    "License": "CC0",
+    "Authors": [
+        "Dean Salisbury",
+        "Dylan Seebold",
+        "Brian Coffman"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003944.v1.0.0"
+}
