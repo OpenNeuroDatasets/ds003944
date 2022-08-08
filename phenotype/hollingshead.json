@@ -1,0 +1,18 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "SUBSES": {
+      "Description": "Participant's socioeconomic status. Hollingshead index, based on education and occupation"
+    },
+    "MOMSES": {
+      "Description": "Parent of participant socioeconomic status. Hollingshead index, based on education and occupation"
+    },
+    "DADSES": {
+      "Description": "Parent of participant socioeconomic status. Hollingshead index, based on education and occupation"
+    },
+    "PSES": {
+      "Description": "Parents of participant socioeconomic status, calculated as a mean of both parents if both values are available. Hollingshead index, based on education and occupation"
+    }
+}

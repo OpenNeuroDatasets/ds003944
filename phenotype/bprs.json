@@ -1,0 +1,274 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "bprs_q1": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q1 Somatic Concern",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"
+      }
+    },
+    "bprs_q2": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q2 Anxiety",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"
+      }
+    },
+    "bprs_q3": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q3 Emotional Withdrawal",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"
+      }
+    },
+    "bprs_q4": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q4 Conceptual Disorganization",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"
+      }
+    },
+    "bprs_q5": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q5 Guilt Feelings",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q6": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q6 Tension",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q7": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q7 Mannerisms and Posturing",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q8": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q8 Grandiosity",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q9": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q9 Depressive Mood",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q10": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q10 Hostility",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q11": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q11 Suspiciousness",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q12": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q12 Hallucinatory Behavior",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q13": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q13 Motor Retardation",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q14": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q14 Uncooperativeness",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q15": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q15 Unusual Thought Content",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q16": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q16 Blunted Affect",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q17": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q17 Excitement",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q18": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q18 Disorientation",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "bprs_q19": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q19 Elated Mood",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    },
+    "BPRST19": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Sum Q1-Q19",
+      "Units": "points"  
+    },
+    "BPRST18": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Sum Q1-Q18",
+      "Units": "points"  
+    },
+    "bprs_motor_hyper": {
+      "Description": "Brief Psychiatric Rating Scale (BPRS) - Q20 Motor Hyperactivity",
+      "Levels": {
+        "0": "not assessed",
+        "1": "not present",
+        "2": "very mild",
+        "3": "mild",
+        "4": "moderate",
+        "5": "moderately severe",
+        "6": "severe",
+        "7": "extremely severe"      
+      }
+    }
+}

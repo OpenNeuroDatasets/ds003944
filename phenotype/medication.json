@@ -1,0 +1,9 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "CPZ_at_scan": {
+      "Description": "Chlorpromazine equivalency of prescribed medication at time of EEG scan"
+    }
+}
