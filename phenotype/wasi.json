@@ -1,0 +1,27 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "VOCAB_RS": {
+      "Description": "WASI Vocabulary subtest raw score"
+    },
+    "VOCAB_TS": {
+      "Description": "WASI Vocabulary subtest T-score"
+    },
+    "MATRIX_RS": {
+      "Description": "WASI Matrix Reasoning subtest raw score"
+    },
+    "MATRIX_TS": {
+      "Description": "WASI Matrix Reasoning subtest T-score"
+    },
+    "FULL2TS": {
+      "Description": "Combined T-score of WASI subtests Matrix Reasoning & Vocabulary"
+    },
+    "FULL2IQ": {
+      "Description": "Full IQ estimate on WASI, using two subtests: Matrix Reasoning & Vocabulary"
+    },
+    "FULL2PCT": {
+      "Description": "Combined Percentile of WASI subtests Matrix Reasoning & Vocabulary"
+    }
+}

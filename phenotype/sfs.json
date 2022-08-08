@@ -1,0 +1,708 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "SFS_Q1_LIVEWHERE": {
+      "Description": "Where do you live? (house, apartment, etc... Do not put address)"
+    },
+    "SFS_Q2_LIVEWHO": {
+      "Description": "Who do you live with? (family, roomate, etc.. Do not put names)"
+    },
+    "SFS_Q3A_WKDAYGMT": {
+      "Description": "What time do you get up each day? Average weekday"
+    },
+    "SFS_Q3A_CODE": {
+      "Description": "What time do you get up each day? Average weekday",
+      "Levels": {
+        "0": "Before 9 am",
+        "1": "9-11 am",
+        "2": "11am-1pm",
+        "3": "After 1 pm"
+      }
+    },
+    "SFS_Q3B_WKENDGMT": {
+      "Description": "What time do you get up each day? Average weekend"
+    },
+    "SFS_Q3B_CODE": {
+      "Description": "What time do you get up each day? Average weekend",
+      "Levels": {
+        "0": "Before 9 am",
+        "1": "9-11 am",
+        "2": "11am-1pm",
+        "3": "After 1 pm"
+      }
+    },
+    "SFS_Q4_ALONE": {
+      "Description": "On average, how many waking hours do you spend alone in one day?",
+      "Levels": {
+        "0": "0-3 hours (Very little spent alone)",
+        "1": "3-6 hours (Some of the time)",
+        "2": "6-9 hours (Quite a lot of the time)",
+        "3": "9-12 hours (A great deal of time)",
+        "4": "12 hours or more (Practically all the time)"
+      }
+    },
+    "SFS_Q5_START": {
+      "Description": "How often will you start a conversation at home?",
+      "Levels": {
+        "0": "Almost never",
+        "1": "Rarely",
+        "2": "Sometimes",
+        "3": "Often"
+      }
+    },
+    "SFS_Q6_LEAVE": {
+      "Description": "How often do you leave the house (for any reason)?",
+      "Levels": {
+        "0": "Almost never",
+        "1": "Rarely",
+        "2": "Sometimes",
+        "3": "Often"
+      }
+    },
+    "SFS_Q7_REACT": {
+      "Description": "How do you react to the presence of strangers/people you don’t know?",
+      "Levels": {
+        "0": "Avoid them",
+        "1": "Feel nervous",
+        "2": "Accept them",
+        "3": "Like them"
+      }
+    },
+    "SFS_Q8_FRIENDS": {
+      "Description": "How many friends do you have at the moment?",
+      "Units": "people"
+    },
+    "SFS_Q9_PARTNER": {
+      "Description": "Do you have a partner?",
+      "Levels": {
+        "0": "No",
+        "1": "Yes"
+      }
+    },
+    "SFS_Q10_RATIONAL": {
+      "Description": "How often are you able to carry out a sensible or rational conversation?",
+      "Levels": {
+        "0": "Almost never",
+        "1": "Rarely",
+        "2": "Sometimes",
+        "3": "Often"
+      }
+    },
+    "SFS_Q11_TALK": {
+      "Description": "How easy or difficult do you find it talking to people at the moment?",
+      "Levels": {
+        "0": "Very easy",
+        "1": "Quite easy",
+        "2": "Average",
+        "3": "Quite difficult",
+        "4": "Very difficult"
+      }
+    },
+    "SFS_Q12_01": {
+      "Description": "How often have you done the following over the past 3 months: (1) Buying items from the store (without help)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_02": {
+      "Description": "How often have you done the following over the past 3 months: (2) Washing pots, tidying up etc.",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_03": {
+      "Description": "How often have you done the following over the past 3 months: (3) Regular washing, bathing etc.",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_04": {
+      "Description": "How often have you done the following over the past 3 months: (4) Washing own clothes",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_05": {
+      "Description": "How often have you done the following over the past 3 months: (5) Looking for a job/working",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_06": {
+      "Description": "How often have you done the following over the past 3 months: (6) Doing the food shopping",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_07": {
+      "Description": "How often have you done the following over the past 3 months: (7) Prepare and cook a meal",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_08": {
+      "Description": "How often have you done the following over the past 3 months: (8) Leaving the house alone",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_09": {
+      "Description": "How often have you done the following over the past 3 months: (9) Using buses, trains etc.",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_10": {
+      "Description": "How often have you done the following over the past 3 months: (10) Using money",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_11": {
+      "Description": "How often have you done the following over the past 3 months: (11) Budgeting",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_12": {
+      "Description": "How often have you done the following over the past 3 months: (12) Choosing and buying clothes for self",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_13": {
+      "Description": "How often have you done the following over the past 3 months: (13) Taking care of personal appearance",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_14": {
+      "Description": "How often have you done the following over the past 3 months: (14) Playing musical instruments",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_15": {
+      "Description": "How often have you done the following over the past 3 months: (15) Sewing, knitting",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_16": {
+      "Description": "How often have you done the following over the past 3 months: (16) Gardening",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_17": {
+      "Description": "How often have you done the following over the past 3 months: (17) Reading things",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_18": {
+      "Description": "How often have you done the following over the past 3 months: (18) Watching television",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_19": {
+      "Description": "How often have you done the following over the past 3 months: (19) Listening to music (radio, CDs)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_20": {
+      "Description": "How often have you done the following over the past 3 months: (20) Cooking",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_21": {
+      "Description": "How often have you done the following over the past 3 months: (21) D.I.Y. activities (e.g. putting up shelves)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_22": {
+      "Description": "How often have you done the following over the past 3 months: (22) Fixing things (car, bike, household, etc.)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_23": {
+      "Description": "How often have you done the following over the past 3 months: (23) Walking",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_24": {
+      "Description": "How often have you done the following over the past 3 months: (24) Driving/riding a bike (as a recreation)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_25": {
+      "Description": "How often have you done the following over the past 3 months: (25) Swimming",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_26": {
+      "Description": "How often have you done the following over the past 3 months: (26) Hobby (e.g. collecting things)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_27": {
+      "Description": "How often have you done the following over the past 3 months: (27) Shopping",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_28": {
+      "Description": "How often have you done the following over the past 3 months: (28) Artistic activity (painting, crafts, etc.)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_29": {
+      "Description": "How often have you done the following over the past 3 months: (29) Going to the movies",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_30": {
+      "Description": "How often have you done the following over the past 3 months: (30) Theater/Concert",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_31": {
+      "Description": "How often have you done the following over the past 3 months: (31) Watching an indoor sport (ice hockey, basketball)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_32": {
+      "Description": "How often have you done the following over the past 3 months: (32) Watching an outdoor sport (football, baseball)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_33": {
+      "Description": "How often have you done the following over the past 3 months: (33) Art gallery/museum",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_34": {
+      "Description": "How often have you done the following over the past 3 months: (34) Exhibition",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_35": {
+      "Description": "How often have you done the following over the past 3 months: (35) Visiting other places of interest",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_36": {
+      "Description": "How often have you done the following over the past 3 months: (36) Meetings, talks, etc.",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_37": {
+      "Description": "How often have you done the following over the past 3 months: (37) Evening (informal) class",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_38": {
+      "Description": "How often have you done the following over the past 3 months: (38) Visiting relatives in their homes",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_39": {
+      "Description": "How often have you done the following over the past 3 months: (39) Being visited by relatives",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_40": {
+      "Description": "How often have you done the following over the past 3 months: (40) Visiting friends (including boy/girlfriends)",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_41": {
+      "Description": "How often have you done the following over the past 3 months: (41) Parties",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_42": {
+      "Description": "How often have you done the following over the past 3 months: (42) Formal occasions",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_43": {
+      "Description": "How often have you done the following over the past 3 months: (43) Disco/Dance club, etc.",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_44": {
+      "Description": "How often have you done the following over the past 3 months: (44) Nightclub/Social club",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_45": {
+      "Description": "How often have you done the following over the past 3 months: (45) Playing an indoor sport",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_46": {
+      "Description": "How often have you done the following over the past 3 months: (46) Playing an outdoor sport",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_47": {
+      "Description": "How often have you done the following over the past 3 months: (47) Club/Society meeting",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_48": {
+      "Description": "How often have you done the following over the past 3 months: (48) Bar",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_49": {
+      "Description": "How often have you done the following over the past 3 months: (49) Eating out",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q12_50": {
+      "Description": "How often have you done the following over the past 3 months: (50) Church activity",
+      "Levels": {
+        "0": "Never",
+        "1": "1-3X",
+        "2": "Weekly",
+        "3": "Daily"
+      }
+    },
+    "SFS_Q13_01": {
+      "Description": "How able you are at doing or using the following: (1) Public transport",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_02": {
+      "Description": "How able you are at doing or using the following: (2) Handling money",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_03": {
+      "Description": "How able you are at doing or using the following: (3) Budgeting",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_04": {
+      "Description": "How able you are at doing or using the following: (4) Cooking",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_05": {
+      "Description": "How able you are at doing or using the following: (5) Weekly shopping",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_06": {
+      "Description": "How able you are at doing or using the following: (6) Looking for a job/working",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_07": {
+      "Description": "How able you are at doing or using the following: (7) Washing own clothes",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_08": {
+      "Description": "How able you are at doing or using the following: (8) Personal hygiene",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_09": {
+      "Description": "How able you are at doing or using the following: (9) Washing, tidying, etc.",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_10": {
+      "Description": "How able you are at doing or using the following: (10) Purchasing from stores",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_11": {
+      "Description": "How able you are at doing or using the following: (11) Leaving the house alone",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_12": {
+      "Description": "How able you are at doing or using the following: (12) Choosing and buying clothes",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q13_13": {
+      "Description": "How able you are at doing or using the following: (13) Caring for personal appearance",
+      "Levels": {
+        "0": "Adequately",
+        "1": "Need help",
+        "2": "Unable",
+        "3": "Now known"
+      }
+    },
+    "SFS_Q14": {
+      "Description": "Level of employment",
+      "Levels": {
+        "0": "Full-time gainful earnings or full-time student (degree-granting program)",
+        "1": "Part-time gainful earnings or full-time homemaker/parent or part-time student in a degree-granting program",
+        "2": "Employed until recently e.g. in the last 6 months, and actively pursuing work, or taking classes, not enrolled in a degree-granting program",
+        "3": "In assisted work environment, work therapy or rehabilitation",
+        "4": "Receiving disability support",
+        "5": "Attending a day program as a patient",
+        "6": "Unemployed"
+      }
+    },
+    "SFS_Q15A": {
+      "Description": "When were you last employed? (If SFS_Q14 is 4, 5, 6, open ended)"
+    },
+    "SFS_Q15B": {
+      "Description": "What sort of job was it? (If SFS_Q14 is 4, 5, 6, open ended)"
+    },
+    "SFS_Q15C": {
+      "Description": "How many hours per week, on average? (If SFS_Q14 is 4, 5, 6, open ended)"
+    },
+    "SFS_Q15D": {
+      "Description": "Do you think you are capable of some sort of employment or going back to school? (If SFS_Q14 is 4, 5, 6)",
+      "Levels": {
+        "0": "Definitely yes",
+        "1": "Would have difficulty",
+        "2": "Definitely no"
+      }
+    },
+    "SFS_Q15E": {
+      "Description": "How often do you make attempts to find a new job (e.g. go to a Job Center, look in the newspaper or on the Web)? (If SFS_Q14 is 4, 5, 6)",
+      "Levels": {
+        "0": "Almost never",
+        "1": "Rarely",
+        "2": "Sometimes",
+        "3": "Often"
+      }
+    }
+}

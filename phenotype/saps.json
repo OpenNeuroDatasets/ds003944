@@ -1,0 +1,380 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "SAPS_Q1": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q1 Auditory Hallucinations (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q2": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q2 Voices Commenting (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q3": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q3 Voices Conversing (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q4": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q4 Somatic or Tactile Hallucinations (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q5": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q5 Olfactory Hallucinations (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q6": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q6 Visual Hallucinations (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q7": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q7 Global Rating of Hallucinations (Hallucinations section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q8": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q8 Persecutory Delusions (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q9": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q9 Delusions of Jealousy (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q10": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q10 Delusions of Guilt or Sin (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q11": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q11 Grandoise Delusions (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q12": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q12 Religious Delusions (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q13": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q13 Somatic Delusions (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q14": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q14 Delusions of Reference (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q15": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q15 Delusions of Being Controlled (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q16": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q16 Delusions of Mind Reading (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q17": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q17 Thought Broadcasting (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q18": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q18 Thought Insertion (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q19": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q19 Thought Withdrawal (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q20": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q20 Global Rating of Delusions (Delusions section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q21": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q21 Clothing and Appearance (Bizarre Behavior section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q22": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q22 Social and Sexual Behavior (Bizarre Behavior section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q23": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q23 Aggressive and Agitated Behavior (Bizarre Behavior section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q24": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q24 Repetitive or Stereotyped Behavior (Bizarre Behavior section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q25": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q25 Global Rating of Bizzare Behavior (Bizarre Behavior section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q26": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q26 Derailment (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q27": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q27 Tangentiality (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q28": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q28 Incoherence (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q29": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q29 Illogicality (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q30": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q30 Circumstantiality (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q31": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q31 Pressure of Speech (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q32": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q32 Distractible Speech (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q33": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q33 Clanging (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SAPS_Q34": {
+      "Description": "Scale for Assessment of Positive Symptoms (SAPS) - Q34 Global Rating of Positive Formal Thought Disorder (Positive Formal Thought Disorder section)",
+      "Levels": {
+        "0": "none",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    }
+}
