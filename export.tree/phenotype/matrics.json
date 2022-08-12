@@ -1,0 +1,172 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "TMTRAW": {
+      "Description": "Trail Making Test Raw Time in Seconds",
+      "Units": "seconds"
+    },
+    "TMTTSCR": {
+      "Description": "Trail Making Test Age and Gender Corrected T-Score"
+    },
+    "TMTPCT": {
+      "Description": "Trail Making Test Age and Gender Corrected Percentile"
+    },
+    "BACSSCRAW": {
+      "Description": "Brief Assessment of Cognition in Schizophrenia: Symbol Coding Correct Responses"
+    },
+    "BACSSCTSCR": {
+      "Description": "Brief Assessment of Cognition in Schizophrenia: Symbol Coding Age and Gender Corrected T-Score"
+    },
+    "BACSSCPCT": {
+      "Description": "Brief Assessment of Cognition in Schizophrenia: Symbol Coding Age and Gender Corrected Percentile"
+    },
+    "HVLTRRAWT1": {
+      "Description": "Hopkins Verbal Learning Test - Revised Score, Trial 1"
+    },
+    "HVLTRRAWT2": {
+      "Description": "Hopkins Verbal Learning Test - Revised Score, Trial 2"
+    },
+    "HVLTRRAWT3": {
+      "Description": "Hopkins Verbal Learning Test - Revised Score, Trial 3"
+    },
+    "HVLTRRAWSUM": {
+      "Description": "Hopkins Verbal Learning Test - Revised Score, Trials Sum"
+    },
+    "HVLTRTSCR": {
+      "Description": "Hopkins Verbal Learning Test - Revised, Age and Gender Corrected T-Score"
+    },
+    "HVLTRPCT": {
+      "Description": "Hopkins Verbal Learning Test - Revised, Age and Gender Corrected Percentile"
+    },
+    "WMS3SSRAW": {
+      "Description": "Wechsler Memory Scale-III Spatial Span Total Score"
+    },
+    "WMS3SSTSCR": {
+      "Description": "Wechsler Memory Scale-III Spatial Span Age and Gender Corrected T-Score"
+    },
+    "WMS3SSPCT": {
+      "Description": "Wechsler Memory Scale-III Spatial Span Age and Gender Corrected Percentile"
+    },
+    "LNSRAW": {
+      "Description": "Letter-Number Span Total Score"
+    },
+    "LNSTSCR": {
+      "Description": "Letter-Number Span Age and Gender Corrected T-Score"
+    },
+    "LNSPCT": {
+      "Description": "Letter-Number Span Age and Gender Corrected Percentile"
+    },
+    "NABRAW": {
+      "Description": "Neuropsychological Assessment Battery, Mazes Score"
+    },
+    "NABTSCR": {
+      "Description": "Neuropsychological Assessment Battery, Mazes Age and Gender Corrected T-Score"
+    },
+    "NABPCT": {
+      "Description": "Neuropsychological Assessment Battery, Mazes Age and Gender Corrected Percentile"
+    },
+    "BVMTRRAWT1": {
+      "Description": "Brief Visuospatial Memory Test - Revised Trial 1 Score"
+    },
+    "BVMTRRAWT2": {
+      "Description": "Brief Visuospatial Memory Test - Revised Trial 2 Score"
+    },
+    "BVMTRRAWT3": {
+      "Description": "Brief Visuospatial Memory Test - Revised Trial 3 Score"
+    },
+    "BVMTRRAWSUM": {
+      "Description": "Brief Visuospatial Memory Test - Revised Trials Sum Score"
+    },
+    "BVMTRTSCR": {
+      "Description": "Brief Visuospatial Memory Test - Revised Age and Gender Corrected T-Score"
+    },
+    "BVMTRPCT": {
+      "Description": "Brief Visuospatial Memory Test - Revised Age and Gender Corrected Percentile"
+    },
+    "FLUENRAW": {
+      "Description": "Category Fluency: Animal Naming Score"
+    },
+    "FLUENTSCR": {
+      "Description": "Category Fluency: Animal Naming Age and Gender Corrected T-Score"
+    },
+    "FLUENPCT": {
+      "Description": "Category Fluency: Animal Naming Age and Gender Corrected Percentile"
+    },
+    "MSCEITMERAW": {
+      "Description": "Mayer-Salovey-Caruso Emotional Intelligence Test: Managing Emotions Score"
+    },
+    "MSCEITMETSCR": {
+      "Description": "Mayer-Salovey-Caruso Emotional Intelligence Test: Managing Emotions Age and Gender Corrected T-Score"
+    },
+    "MSCEITMEPCT": {
+      "Description": "Mayer-Salovey-Caruso Emotional Intelligence Test: Managing Emotions Age and Gender Corrected Percentile"
+    },
+    "CPTIPRAW2D": {
+      "Description": "Continuous Performance Test-Identical Pairs 2 Digit Score"
+    },
+    "CPTIPRAW3D": {
+      "Description": "Continuous Performance Test-Identical Pairs 3 Digit Score"
+    },
+    "CPTIPRAW4D": {
+      "Description": "Continuous Performance Test-Identical Pairs 4 Digit Score"
+    },
+    "CPTIPRAWMEAN": {
+      "Description": "Continuous Performance Test-Identical Pairs Mean Score"
+    },
+    "CPTIPTSCR": {
+      "Description": "Continuous Performance Test-Identical Pairs Age and Gender Corrected T-Score"
+    },
+    "CPTIPPCT": {
+      "Description": "Continuous Performance Test-Identical Pairs Age and Gender Corrected Percentile"
+    },
+    "SPEEDTSCR": {
+      "Description": "Speed of Processing Age and Gender Corrected T-Score"
+    },
+    "SPEEDPCT": {
+      "Description": "Speed of Processing Age and Gender Corrected Percentile"
+    },
+    "ATT_VIGTSCR": {
+      "Description": "Attention/Vigilance Age and Gender Corrected T_Score"
+    },
+    "ATT_VIGPCT": {
+      "Description": "Attention/Vigilance Age and Gender Corrected Percentile"
+    },
+    "WMTSCR": {
+      "Description": "Working Memory Age and Gender Corrected T-Score"
+    },
+    "WMPCT": {
+      "Description": "Working Memory Age and Gender Corrected Percentile"
+    },
+    "VERBTSCR": {
+      "Description": "Verbal Learning Age and Gender Corrected T-Score"
+    },
+    "VERBPCT": {
+      "Description": "Verbal Learning Age and Gender Corrected Percentile"
+    },
+    "VISTSCR": {
+      "Description": "Visual Learning Age and Gender Corrected T-Score"
+    },
+    "VISPCT": {
+      "Description": "Visual Learning Age and Gender Corrected Percentile"
+    },
+    "RPSTSCR": {
+      "Description": "Reasoning and Problem Solving Age and Gender Corrected T-Score"
+    },
+    "RPSPCT": {
+      "Description": "Reasoning and Problem Solving Age and Gender Corrected Percentile"
+    },
+    "SOCCOGTSCR": {
+      "Description": "Social Cognition Age and Gender Corrected T-Score"
+    },
+    "SOCCOGPCT": {
+      "Description": "Social Cognition Age and Gender Corrected Percentile"
+    },
+    "OVERALLTSCR": {
+      "Description": "Overall Composite Age and Gender Corrected T-Score"
+    },
+    "OVERALLPCT": {
+      "Description": "Overall Composite Age and Gender Corrected Percentile"
+    }
+}

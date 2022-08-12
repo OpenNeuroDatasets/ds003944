@@ -1,0 +1,27 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "ROLECURR": {
+      "Description": "GAF Role functioning, current (at time of visit). Range is 0-10, with higher being better"
+    },
+    "ROLELOW": {
+      "Description": "GAF Role functioning, lowest lifetime value. Range is 0-10, with higher being better"
+    },
+    "ROLEHIGH": {
+      "Description": "GAF Role functioning, highest lifetime value. Range is 0-10, with higher being better"
+    },
+    "SOCIALCURR": {
+      "Description": "GAF Social functioning, current (at time of visit). Range is 0-10, with higher being better"
+    },
+    "SOCIALLOW": {
+      "Description": "GAF Social functioning, lowest lifetime value. Range is 0-10, with higher being better"
+    },
+    "SOCIALHIGH": {
+      "Description": "GAF Social functioning, highest lifetime value. Range is 0-10, with higher being better"
+    },
+    "GAS": {
+      "Description": "Global Assessment Scale. Range is 0-100, with higher being better"
+    }
+}

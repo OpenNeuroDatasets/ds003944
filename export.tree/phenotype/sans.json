@@ -1,0 +1,281 @@
+{
+    "participant_id": {
+      "LongName": "Participant identifier",
+      "Description": "Unique participant identifier"
+    },
+    "SANS_Q1": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q1 Unchanging Facial Expression (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q2": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q2 Decreased Spontaneous Movements (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q3": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q3 Paucity of Expressive Gestures (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q4": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q4 Poor Eye Contact (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q5": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q5 Affective Nonresponsivity (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q6": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q6 Lack of Vocal Inflections (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q7": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q7 Global Rating of Affective Flattening (Affective Flattening or Blunting section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q8": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q8 Inappropriate Affect (Alogia section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q9": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q9 Poverty of Speech (Alogia section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q10": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q10 Poverty of Content of Speech (Alogia section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q11": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q11 Blocking (Alogia section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q12": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q12 Increased Latency of Response (Alogia section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q13": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q13 Global Rating of Alogia (Alogia section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q14": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q14 Grooming and Hygiene (Avolition/Apathy section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q15": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q15 Impersistence at Work or School (Avolition/Apathy section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q16": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q16 Physical Anergia (Avolition/Apathy section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q17": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q17 Global Rating of Avolition (Avolition/Apathy section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q18": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q18 Recreational Interests and Activities (Anhedonia/Asociality section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q19": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q19 Sexual Interest and Activity (Anhedonia/Asociality section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q20": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q20 Ability to Feel Intimacy and Closeness (Anhedonia/Asociality section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q21": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q21 Relationships with Friends and Peers (Anhedonia/Asociality section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q22": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q22 Global Rating of Asociality - Anhedonia (Anhedonia/Asociality section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q23": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q23 Social Inattentiveness (Attention section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q24": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q24 Inattentiveness During Mental Status Testing (Attention section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    },
+    "SANS_Q25": {
+      "Description": "Scale for Assessment of Negative Symptoms (SANS) - Q25 Global Rating of Attention (Attention section)",
+      "Levels": {
+        "0": "none/not at all",
+        "1": "questionable",
+        "2": "mild",
+        "3": "moderate",
+        "4": "marked",
+        "5": "severe"
+      }
+    }
+}
